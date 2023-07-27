@@ -6,8 +6,8 @@
 
 ```javascript
 const mike = {
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'C', 'Kotlin'],
-  tools: ['Vue', 'Vuex', 'NuxtJs', 'React', 'Redux','GatsbyJS', 'NextJS', 'Node', 'Jest', 'SASS', ],
+  code: ['Javascript', 'Typescript', 'Kotlin', 'Java', Python, C, Ruby],
+  tools: ['Vue', 'React', 'Node', 'Jest', 'SASS'],
   challenge: 'Learn and develop something using the microfrontend architecture',
   portfolio: 'https://zen-mccarthy-0821be.netlify.app/',
   learning_methods: ['freeCodeCamp, youtube, stackOverflow, community']
