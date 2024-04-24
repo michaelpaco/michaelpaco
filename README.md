@@ -6,12 +6,17 @@
 
 ```javascript
 const mike = {
-  code: ['Javascript', 'Typescript', 'Kotlin', 'Java', Python, C, Ruby],
-  tools: ['Vue', 'React', 'Node', 'Jest', 'SASS'],
-  challenge: 'Learn and develop something using the microfrontend architecture',
+  code: ['Javascript', 'Typescript', 'Kotlin', 'Java', 'Python', 'C', 'Ruby'],
+  tools: ['Kotlin', 'Java', 'Android Studio', 'Vue', 'React', 'Node.js', 'Gradle', 'Firebase'],
+  challenge: 'Keep improving myself every day and learn new things.',
   portfolio: 'https://zen-mccarthy-0821be.netlify.app/',
-  learning_methods: ['freeCodeCamp, youtube, stackOverflow, community']
-}
+  learning_methods: ['freeCodeCamp', 'youtube', 'stackOverflow', 'community'],
+  headline: 'Experienced Android Developer specializing in Kotlin and Java',
+  contact: {
+    location: 'Lisbon, Portugal',
+    email: 'michael.paco.alves@gmail.com'
+  }
+};
 ```
 
 <h2 align='left'>Github statistics: :octocat:</h2>
